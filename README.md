@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# Book-Store-Mern
+=======
+>>>>>>> backup-fix
 # Mern-Book-Store
 
 A simple book store website using mern stack
@@ -78,3 +84,7 @@ This is a full-stack MERN (MongoDB, Express, React, Node.js) application that fu
   ```
 
 ## Thank you ✨
+<<<<<<< HEAD
+=======
+>>>>>>> ff67259 (Initial commit)
+>>>>>>> backup-fix
