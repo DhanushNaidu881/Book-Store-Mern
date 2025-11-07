@@ -41,7 +41,7 @@ This is a full-stack MERN (MongoDB, Express, React, Node.js) application that fu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/EbiMeshack/mern-book-store.git
+   git clone https://github.com/DhanushNaidu881/mern-book-store.git
    ```
 2. Install dependencies for both frontend and backend:
 
